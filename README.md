@@ -1,6 +1,9 @@
 👋 Hi, I'm Thanzia Abdul Salam
+
 🚀 Python Full-Stack & Backend Developer 
+
 I’m a Telecommunication Engineer turned Software Developer, passionate about building scalable, secure, and impactful applications. With hands-on experience in Python, Django, Flask, REST APIs, React, and cloud environments like AWS, I bring a mix of engineering discipline and modern software development expertise.
+
 🔹 About Me
 
 💻 Current Role: Python Full-Stack Developer at Luminar Technolab (Kochi, Kerala)
